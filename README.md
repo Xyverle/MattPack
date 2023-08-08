@@ -5,7 +5,7 @@ The texture pack used by mattbatwings.
 ![](preview.png)
 ## Supported Versions: 1.18.2, 1.20.1
  * Versions other than the ones above will not get updates
-### Features:
+## Features:
  * Iron trapdoors on the top block will be turned into lamps.
  * The Power Level of redstone dust is visible
  * Clean Wool & Glass
