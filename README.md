@@ -11,3 +11,6 @@ The texture pack used by mattbatwings.
  * Clean Repeater and Comparater
  * Hopper & Observer Arrows
  * Composters show how full they are on the side
+ * Cauldrons show how full they are on the side and of what liquid
+ * Levers show if they're on/off
+ * Music disks show how much power level they will give in the name
